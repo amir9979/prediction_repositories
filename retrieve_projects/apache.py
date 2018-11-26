@@ -1,6 +1,7 @@
 import jira
 import github3
 from collections import Counter
+from configuration import ConfigurationCreator
 
 
 def find_repo_and_jira(key, repos, jira_projects):
@@ -23,4 +24,10 @@ def get_apache_repos_data():
 
 if __name__ == "__main__":
     apache_repos = get_apache_repos_data()
+    # print "\n".join(
+    #     map(lambda x: "{0} git clone {1} {2}".format('call' if x[0] % 10 == 0 else 'start', x[1][0], x[1][1]),
+    #         enumerate(apache_repos)))
+    configurations = map(lambda x: ConfigurationCreator(x[1]), apache_repos)
+    print "\n".join(map(lambda x: "{0} {1}".format('call' if x[0] % 10 == 0 else 'start', x[1].get_cmd_line()),
+                        enumerate(configurations)))
     pass

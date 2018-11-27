@@ -6,12 +6,11 @@ class ConfigurationCreator(object):
     REPO_DIR = r"C:\amirelm\repos"
     CONFIGRATION_PATH = r"C:\amirelm\configurations"
     CONFIGRATION = r"""workingDir=C:\amirelm\projects_distributions\{PRODUCT_NAME}
-    git=C:\amirelm\repos\{PRODUCT_NAME}
-    issue_tracker_product_name={PRODUCT_NAME}
-    issue_tracker_url=https://issues.apache.org/jira
-    issue_tracker=jira
-    vers=({TAG_1},{TAG_2}, {TAG_3}, {TAG_4},{TAG_5})
-    """
+git=C:\amirelm\repos\{PRODUCT_NAME}
+issue_tracker_product_name={PRODUCT_NAME}
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=({TAG_1},{TAG_2}, {TAG_3}, {TAG_4},{TAG_5})"""
     CMD_LINE = r'C:\Users\amirelm\AppData\Local\Continuum\anaconda2_64\python.exe wrapper.py {CONFIGURATION_PATH}'
 
     def __init__(self, jira_key):

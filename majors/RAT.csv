@@ -1,13 +1,1 @@
 granularity,buggedType,version_name,valid,bug
-Method,Most,apache-rat-project-0.6,1501,13
-Method,Most,apache-rat-project-0.7,1592,18
-Method,Most,apache-rat-project-0.8,1610,0
-Method,All,apache-rat-project-0.6,1259,255
-Method,All,apache-rat-project-0.7,1581,29
-Method,All,apache-rat-project-0.8,1610,0
-File,Most,apache-rat-project-0.6,517,11
-File,Most,apache-rat-project-0.7,527,4
-File,Most,apache-rat-project-0.8,531,0
-File,All,apache-rat-project-0.6,455,73
-File,All,apache-rat-project-0.7,527,4
-File,All,apache-rat-project-0.8,531,0

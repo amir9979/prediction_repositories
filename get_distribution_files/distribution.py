@@ -8,8 +8,12 @@ from collections import OrderedDict
 
 DISTRIBUTIONS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../distributions"))
 MAJORS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../majors"))
+MINORS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../minors"))
+MICROS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../micros"))
 DISTRIBUTIONS_FILE_NAME = r"distribution_per_version_report.csv"
 MAJORS_FILE_NAME = r"distribution_per_majors_report.csv"
+MINORS_FILE_NAME = r"distribution_per_minors_report.csv"
+MICROS_FILE_NAME = r"distribution_per_micros_report.csv"
 
 
 class DistributionRow(object):
@@ -63,7 +67,7 @@ class Distribution(object):
     @staticmethod
     def copy_distribution_files():
         for project_name in os.listdir(Distribution.DISTRIBUTIONS_DIR):
-            for src, dst in zip([DISTRIBUTIONS_FILE_NAME, MAJORS_FILE_NAME], [DISTRIBUTIONS_DST_DIR, MAJORS_DST_DIR]):
+            for src, dst in zip([DISTRIBUTIONS_FILE_NAME, MAJORS_FILE_NAME, MINORS_FILE_NAME, MICROS_FILE_NAME], [DISTRIBUTIONS_DST_DIR, MAJORS_DST_DIR, MINORS_DST_DIR, MICROS_DST_DIR]):
                 src_path = os.path.join(Distribution.DISTRIBUTIONS_DIR, project_name, src)
                 dst_path = os.path.join(dst, project_name + ".csv")
                 if os.path.exists(src_path):

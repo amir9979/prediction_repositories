@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,abdera-1.0,8578,21
+Method,Most,abdera-1.1.1,8599,0
+Method,Most,abdera-1.1,8603,2
+Method,All,abdera-1.0,8545,54
+Method,All,abdera-1.1.1,8599,0
+Method,All,abdera-1.1,8582,23
+File,Most,abdera-1.0,1213,11
+File,Most,abdera-1.1.1,1224,0
+File,Most,abdera-1.1,1219,4
+File,All,abdera-1.0,1203,21
+File,All,abdera-1.1.1,1224,0
+File,All,abdera-1.1,1215,8

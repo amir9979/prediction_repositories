@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,3.0.1,11451,17
+Method,Most,3.2.0,11482,0
+Method,Most,3.2.1,12094,31
+Method,Most,3.3.0,12723,48
+Method,All,3.0.1,11228,240
+Method,All,3.2.0,11482,0
+Method,All,3.2.1,11701,424
+Method,All,3.3.0,12706,65
+File,Most,3.0.1,2449,15
+File,Most,3.2.0,2467,1
+File,Most,3.2.1,2547,23
+File,Most,3.3.0,2769,19
+File,All,3.0.1,2388,76
+File,All,3.2.0,2467,1
+File,All,3.2.1,2472,98
+File,All,3.3.0,2749,39

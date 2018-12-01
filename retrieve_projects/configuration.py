@@ -1,4 +1,5 @@
 import os
+import sys
 import git
 
 
@@ -11,7 +12,6 @@ issue_tracker_product_name={PRODUCT_NAME}
 issue_tracker_url=https://issues.apache.org/jira
 issue_tracker=jira
 vers=({TAG_1},{TAG_2}, {TAG_3}, {TAG_4},{TAG_5})"""
-    CMD_LINE = r'C:\Users\amirelm\AppData\Local\Continuum\anaconda2_64\python.exe wrapper.py {CONFIGURATION_PATH}'
 
     def __init__(self, jira_key):
         tags_names = map(lambda x: x.name, git.Repo(os.path.join(ConfigurationCreator.REPO_DIR, jira_key)).tags)
@@ -33,5 +33,5 @@ vers=({TAG_1},{TAG_2}, {TAG_3}, {TAG_4},{TAG_5})"""
         return self.configuration_path
 
     def get_cmd_line(self):
-        return ConfigurationCreator.CMD_LINE.format(CONFIGURATION_PATH=self.get_configuration_path())
+        return [sys.executable, 'wrapper.py', self.get_configuration_path()]
 

@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,wink-1.3.0,9848,4
+Method,All,wink-1.3.0,9809,43
+File,Most,wink-1.3.0,1789,2
+File,All,wink-1.3.0,1776,15

@@ -2,6 +2,8 @@ import jira
 import github3
 from collections import Counter
 from configuration import ConfigurationCreator
+import task
+import sys
 
 
 def find_repo_and_jira(key, repos, jira_projects):
@@ -28,6 +30,7 @@ if __name__ == "__main__":
     #     map(lambda x: "{0} git clone {1} {2}".format('call' if x[0] % 10 == 0 else 'start', x[1][0], x[1][1]),
     #         enumerate(apache_repos)))
     configurations = map(lambda x: ConfigurationCreator(x[1]), apache_repos)
-    print "\n".join(map(lambda x: "{0} {1}".format('call' if x[0] % 10 == 0 else 'start', x[1].get_cmd_line()),
-                        enumerate(configurations)))
-    pass
+    manager = task.TaskManager()
+    for config in configurations:
+        manager.add_task(task.Task(config.get_cmd_line()))
+    manager.save_as_csv("configurations_running.csv")

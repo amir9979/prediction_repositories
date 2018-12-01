@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-scm-publish-plugin-1.0-beta-1,24,0
+Method,Most,maven-scm-publish-plugin-1.0-beta-2,25,0
+Method,Most,maven-scm-publish-plugin-1.0,24,1
+Method,Most,maven-scm-publish-plugin-1.1,27,0
+Method,All,maven-scm-publish-plugin-1.0-beta-1,24,0
+Method,All,maven-scm-publish-plugin-1.0-beta-2,25,0
+Method,All,maven-scm-publish-plugin-1.0,24,1
+Method,All,maven-scm-publish-plugin-1.1,27,0
+File,Most,maven-scm-publish-plugin-1.0-beta-1,7,0
+File,Most,maven-scm-publish-plugin-1.0-beta-2,7,0
+File,Most,maven-scm-publish-plugin-1.0,6,1
+File,Most,maven-scm-publish-plugin-1.1,8,0
+File,All,maven-scm-publish-plugin-1.0-beta-1,7,0
+File,All,maven-scm-publish-plugin-1.0-beta-2,7,0
+File,All,maven-scm-publish-plugin-1.0,6,1
+File,All,maven-scm-publish-plugin-1.1,8,0

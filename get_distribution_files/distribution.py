@@ -4,6 +4,7 @@ import csv
 import shutil
 from numpy import mean, var
 from itertools import product
+from collections import OrderedDict
 
 DISTRIBUTIONS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../distributions"))
 MAJORS_DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../majors"))
@@ -22,7 +23,6 @@ class DistributionRow(object):
 
 class Distribution(object):
     DISTRIBUTIONS_DIR = r"C:\amirelm\projects_distributions"
-    DST_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), r"../distributions"))
 
     def __init__(self, file_path):
         self.path = file_path
@@ -44,10 +44,21 @@ class Distribution(object):
         valids = map(lambda row: row.valid, rows)
         components = map(lambda row: row.components, rows)
         buggy_percent = map(lambda row: row.buggy_percent, rows)
-        data = {'granularity': granularity, 'buggedType': buggedType, 'versions': len(rows)}
-        for (function_name, function), variable_name in product([('mean', mean), ('var', var), ('min', min), ('max', max)], ['components', 'valids', 'bugs', 'buggy_percent']):
+        data = OrderedDict()
+        data['granularity'] = granularity
+        data['buggedType'] = buggedType
+        data['versions'] = len(rows)
+        for (function_name, function), variable_name in product([('mean', mean), ('sum', sum), ('var', var),
+                                                                 ('min', min), ('max', max)],
+                                                                ['components', 'valids', 'bugs', 'buggy_percent']):
             data['{0}_{1}'.format(function_name, variable_name)] = function(locals()[variable_name])
         return data
+
+    def get_granularities(self):
+        return set(map(lambda row: row.granularity, self.rows))
+
+    def get_buggedTypes(self):
+        return set(map(lambda row: row.buggedType, self.rows))
 
     @staticmethod
     def copy_distribution_files():
@@ -58,10 +69,27 @@ class Distribution(object):
                 if os.path.exists(src_path):
                     shutil.copyfile(src_path, dst_path)
 
+    @staticmethod
+    def save_as_csv():
+        for dst_dir in [MAJORS_DST_DIR, DISTRIBUTIONS_DST_DIR]:
+            csv_out_file = dst_dir + ".csv"
+            rows = []
+            header = False
+            for project_name in os.listdir(dst_dir):
+                try:
+                    distribution = Distribution(os.path.join(MAJORS_DST_DIR, project_name))
+                    for granularity, buggedType in product(distribution.get_granularities(), distribution.get_buggedTypes()):
+                        data = distribution.get_data(granularity, buggedType)
+                        if not header:
+                            header = ['project_name'] + data.keys()
+                            rows.append(header)
+                        rows.append([project_name] + data.values())
+                except:
+                    pass
+            with open(csv_out_file, 'wb') as f:
+                csv.writer(f).writerows(rows)
+
 
 if __name__ == '__main__':
     Distribution.copy_distribution_files()
-    versions = []
-    for version in os.listdir(Distribution.DST_DIR):
-        versions.extend(Distribution(os.path.join(Distribution.DST_DIR, version)).get_versions())
-    pass
+    Distribution.save_as_csv()

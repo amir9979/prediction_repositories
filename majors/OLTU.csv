@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,org.apache.oltu.oauth2-0.31,1176,8
+Method,Most,org.apache.oltu.oauth2.parent-1.0.0,1209,9
+Method,Most,org.apache.oltu.oauth2.parent-1.0.1,1375,16
+Method,Most,org.apache.oltu.oauth2.parent-1.0.2,1388,12
+Method,All,org.apache.oltu.oauth2-0.31,1048,136
+Method,All,org.apache.oltu.oauth2.parent-1.0.0,1187,31
+Method,All,org.apache.oltu.oauth2.parent-1.0.1,1280,111
+Method,All,org.apache.oltu.oauth2.parent-1.0.2,1391,9
+File,Most,org.apache.oltu.oauth2-0.31,477,8
+File,Most,org.apache.oltu.oauth2.parent-1.0.0,486,6
+File,Most,org.apache.oltu.oauth2.parent-1.0.1,504,14
+File,Most,org.apache.oltu.oauth2.parent-1.0.2,516,4
+File,All,org.apache.oltu.oauth2-0.31,437,48
+File,All,org.apache.oltu.oauth2.parent-1.0.0,476,16
+File,All,org.apache.oltu.oauth2.parent-1.0.1,473,45
+File,All,org.apache.oltu.oauth2.parent-1.0.2,514,6

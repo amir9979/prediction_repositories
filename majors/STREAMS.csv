@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,streams-master-1.0,2794,111
+Method,Most,streams-project-0.1,4332,197
+Method,Most,streams-project-0.5.1,4602,13
+Method,All,streams-master-1.0,2063,842
+Method,All,streams-project-0.1,2338,2191
+Method,All,streams-project-0.5.1,4462,153
+File,Most,streams-master-1.0,496,59
+File,Most,streams-project-0.1,732,78
+File,Most,streams-project-0.5.1,816,13
+File,All,streams-master-1.0,291,264
+File,All,streams-project-0.1,435,375
+File,All,streams-project-0.5.1,755,74

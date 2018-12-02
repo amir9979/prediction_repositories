@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,optiq-parent-0.5,18299,2
+Method,Most,optiq-parent-0.6,18851,0
+Method,Most,optiq-parent-0.7,19276,0
+Method,All,optiq-parent-0.5,18283,18
+Method,All,optiq-parent-0.6,18851,0
+Method,All,optiq-parent-0.7,19276,0
+File,Most,optiq-parent-0.5,1926,2
+File,Most,optiq-parent-0.6,1958,0
+File,Most,optiq-parent-0.7,2000,0
+File,All,optiq-parent-0.5,1913,15
+File,All,optiq-parent-0.6,1958,0
+File,All,optiq-parent-0.7,2000,0

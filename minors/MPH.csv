@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-help-plugin-2.0,139,4
+Method,Most,maven-help-plugin-2.1,148,0
+Method,All,maven-help-plugin-2.0,126,17
+Method,All,maven-help-plugin-2.1,148,0
+File,Most,maven-help-plugin-2.0,16,3
+File,Most,maven-help-plugin-2.1,20,0
+File,All,maven-help-plugin-2.0,16,3
+File,All,maven-help-plugin-2.1,20,0

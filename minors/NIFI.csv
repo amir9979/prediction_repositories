@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,nifi-parent-1.0.0-incubating-rc13,13440,0
+Method,Most,nifi-nar-maven-plugin-1.0.1-incubating-rc13,13440,0
+Method,All,nifi-parent-1.0.0-incubating-rc13,13440,0
+Method,All,nifi-nar-maven-plugin-1.0.1-incubating-rc13,13440,0
+File,Most,nifi-parent-1.0.0-incubating-rc13,2903,0
+File,Most,nifi-nar-maven-plugin-1.0.1-incubating-rc13,2903,0
+File,All,nifi-parent-1.0.0-incubating-rc13,2903,0
+File,All,nifi-nar-maven-plugin-1.0.1-incubating-rc13,2903,0

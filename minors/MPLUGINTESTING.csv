@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-plugin-testing-1.2,410,2
+Method,Most,maven-plugin-testing-2.0,410,2
+Method,Most,maven-plugin-testing-2.1,412,0
+Method,All,maven-plugin-testing-1.2,412,0
+Method,All,maven-plugin-testing-2.0,412,0
+Method,All,maven-plugin-testing-2.1,412,0
+File,Most,maven-plugin-testing-1.2,30,0
+File,Most,maven-plugin-testing-2.0,30,0
+File,Most,maven-plugin-testing-2.1,30,0
+File,All,maven-plugin-testing-1.2,30,0
+File,All,maven-plugin-testing-2.0,30,0
+File,All,maven-plugin-testing-2.1,30,0

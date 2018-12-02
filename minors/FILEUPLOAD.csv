@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,FILEUPLOAD_1_0,391,0
+Method,Most,FILEUPLOAD_1_1,391,0
+Method,Most,commons-fileupload-1.2,651,17
+Method,All,FILEUPLOAD_1_0,391,0
+Method,All,FILEUPLOAD_1_1,391,0
+Method,All,commons-fileupload-1.2,650,18
+File,Most,FILEUPLOAD_1_0,43,0
+File,Most,FILEUPLOAD_1_1,43,0
+File,Most,commons-fileupload-1.2,94,6
+File,All,FILEUPLOAD_1_0,43,0
+File,All,FILEUPLOAD_1_1,43,0
+File,All,commons-fileupload-1.2,91,9

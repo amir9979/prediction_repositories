@@ -1,9 +1,0 @@
-granularity,buggedType,version_name,valid,bug
-Method,Most,CHAIN_1_0,1111,0
-Method,Most,CHAIN_1_1,1013,8
-Method,All,CHAIN_1_0,1111,0
-Method,All,CHAIN_1_1,1011,10
-File,Most,CHAIN_1_0,140,0
-File,Most,CHAIN_1_1,101,8
-File,All,CHAIN_1_0,140,0
-File,All,CHAIN_1_1,101,8

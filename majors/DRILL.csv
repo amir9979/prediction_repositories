@@ -1,9 +1,0 @@
-granularity,buggedType,version_name,valid,bug
-Method,Most,0.9.0,21706,175
-Method,Most,drill-1.1.0,23791,223
-Method,All,0.9.0,19986,1895
-Method,All,drill-1.1.0,21393,2621
-File,Most,0.9.0,2918,119
-File,Most,drill-1.1.0,3135,135
-File,All,0.9.0,2543,494
-File,All,drill-1.1.0,2595,675

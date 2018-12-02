@@ -26,7 +26,7 @@ class DistributionRow(object):
 
 
 class Distribution(object):
-    DISTRIBUTIONS_DIR = r"C:\amirelm\projects_distributions"
+    DISTRIBUTIONS_DIR = r"C:\amirelm\projects_distributions1"
 
     def __init__(self, file_path):
         self.path = file_path
@@ -75,13 +75,13 @@ class Distribution(object):
 
     @staticmethod
     def save_as_csv():
-        for dst_dir in [MAJORS_DST_DIR, DISTRIBUTIONS_DST_DIR]:
+        for dst_dir in [MAJORS_DST_DIR, DISTRIBUTIONS_DST_DIR, MINORS_DST_DIR, MICROS_DST_DIR]:
             csv_out_file = dst_dir + ".csv"
             rows = []
             header = False
             for project_name in os.listdir(dst_dir):
                 try:
-                    distribution = Distribution(os.path.join(MAJORS_DST_DIR, project_name))
+                    distribution = Distribution(os.path.join(dst_dir, project_name))
                     for granularity, buggedType in product(distribution.get_granularities(), distribution.get_buggedTypes()):
                         data = distribution.get_data(granularity, buggedType)
                         if not header:

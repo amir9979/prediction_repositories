@@ -30,7 +30,7 @@ Method,Most,jwsdp_101_01,608,0
 Method,Most,jwsdp_10_ea2_01,608,0
 Method,Most,jwsdp_10_ea2_02,608,0
 Method,Most,jwsp_10_01,612,0
-Method,Most,commons-logging-1.1.1,636,8
+Method,Most,commons-logging-1.1.1,637,7
 Method,Most,LOGGING_1_1_2_RC1,649,0
 Method,Most,LOGGING_1_1_2_RC2,649,0
 Method,Most,LOGGING_1_1_2,649,0
@@ -70,7 +70,7 @@ Method,All,jwsdp_101_01,608,0
 Method,All,jwsdp_10_ea2_01,608,0
 Method,All,jwsdp_10_ea2_02,608,0
 Method,All,jwsp_10_01,612,0
-Method,All,commons-logging-1.1.1,627,17
+Method,All,commons-logging-1.1.1,638,6
 Method,All,LOGGING_1_1_2_RC1,649,0
 Method,All,LOGGING_1_1_2_RC2,649,0
 Method,All,LOGGING_1_1_2,649,0
@@ -150,7 +150,7 @@ File,All,jwsdp_101_01,79,0
 File,All,jwsdp_10_ea2_01,79,0
 File,All,jwsdp_10_ea2_02,79,0
 File,All,jwsp_10_01,80,0
-File,All,commons-logging-1.1.1,89,6
+File,All,commons-logging-1.1.1,92,3
 File,All,LOGGING_1_1_2_RC1,96,0
 File,All,LOGGING_1_1_2_RC2,96,0
 File,All,LOGGING_1_1_2,96,0

@@ -10,7 +10,7 @@ Method,Most,chukwa-0.5.0-rc2,2378,0
 Method,Most,chukwa-0.5.0-rc3,2378,0
 Method,Most,release-0.1.2,2378,0
 Method,Most,release-0.1.2-rc1,2378,0
-Method,Most,release-0.1.2-rc4,2537,3
+Method,Most,release-0.1.2-rc4,2538,2
 Method,Most,chukwa-0.6.0-rc0,2540,0
 Method,Most,chukwa-0.6.0-rc1,2540,0
 Method,Most,chukwa-0.6.0-rc2,2540,0
@@ -35,7 +35,7 @@ Method,All,chukwa-0.5.0-rc2,2378,0
 Method,All,chukwa-0.5.0-rc3,2378,0
 Method,All,release-0.1.2,2378,0
 Method,All,release-0.1.2-rc1,2378,0
-Method,All,release-0.1.2-rc4,2530,10
+Method,All,release-0.1.2-rc4,2540,0
 Method,All,chukwa-0.6.0-rc0,2540,0
 Method,All,chukwa-0.6.0-rc1,2540,0
 Method,All,chukwa-0.6.0-rc2,2540,0
@@ -60,7 +60,7 @@ File,Most,chukwa-0.5.0-rc2,604,0
 File,Most,chukwa-0.5.0-rc3,604,0
 File,Most,release-0.1.2,604,0
 File,Most,release-0.1.2-rc1,604,0
-File,Most,release-0.1.2-rc4,636,1
+File,Most,release-0.1.2-rc4,637,0
 File,Most,chukwa-0.6.0-rc0,637,0
 File,Most,chukwa-0.6.0-rc1,637,0
 File,Most,chukwa-0.6.0-rc2,637,0
@@ -85,7 +85,7 @@ File,All,chukwa-0.5.0-rc2,604,0
 File,All,chukwa-0.5.0-rc3,604,0
 File,All,release-0.1.2,604,0
 File,All,release-0.1.2-rc1,604,0
-File,All,release-0.1.2-rc4,633,4
+File,All,release-0.1.2-rc4,637,0
 File,All,chukwa-0.6.0-rc0,637,0
 File,All,chukwa-0.6.0-rc1,637,0
 File,All,chukwa-0.6.0-rc2,637,0

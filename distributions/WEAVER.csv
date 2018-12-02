@@ -13,7 +13,7 @@ Method,Most,1.2_RC2,656,0
 Method,Most,1.2,672,0
 Method,Most,1.3_RC2,672,0
 Method,Most,1.3_RC1,672,0
-Method,Most,1.3,722,2
+Method,Most,1.3,723,1
 Method,Most,2.0_RC1,724,0
 Method,All,COMMONS_WEAVER_1_0_RC1,611,0
 Method,All,1.0_RC1,619,0
@@ -29,7 +29,7 @@ Method,All,1.2_RC2,656,0
 Method,All,1.2,672,0
 Method,All,1.3_RC2,672,0
 Method,All,1.3_RC1,672,0
-Method,All,1.3,720,4
+Method,All,1.3,722,2
 Method,All,2.0_RC1,724,0
 File,Most,COMMONS_WEAVER_1_0_RC1,143,0
 File,Most,1.0_RC1,143,0
@@ -37,7 +37,7 @@ File,Most,1.0_RC2,143,0
 File,Most,1.0_RC3,143,0
 File,Most,1.0,143,0
 File,Most,1.1_RC1,143,0
-File,Most,1.1_RC2,142,1
+File,Most,1.1_RC2,143,0
 File,Most,1.1_RC3,143,0
 File,Most,1.1,156,0
 File,Most,1.2_RC1,156,0
@@ -45,7 +45,7 @@ File,Most,1.2_RC2,156,0
 File,Most,1.2,158,0
 File,Most,1.3_RC2,158,0
 File,Most,1.3_RC1,158,0
-File,Most,1.3,163,2
+File,Most,1.3,164,1
 File,Most,2.0_RC1,165,0
 File,All,COMMONS_WEAVER_1_0_RC1,143,0
 File,All,1.0_RC1,143,0
@@ -53,7 +53,7 @@ File,All,1.0_RC2,143,0
 File,All,1.0_RC3,143,0
 File,All,1.0,143,0
 File,All,1.1_RC1,143,0
-File,All,1.1_RC2,142,1
+File,All,1.1_RC2,143,0
 File,All,1.1_RC3,143,0
 File,All,1.1,156,0
 File,All,1.2_RC1,156,0
@@ -61,5 +61,5 @@ File,All,1.2_RC2,156,0
 File,All,1.2,158,0
 File,All,1.3_RC2,158,0
 File,All,1.3_RC1,158,0
-File,All,1.3,162,3
+File,All,1.3,163,2
 File,All,2.0_RC1,165,0

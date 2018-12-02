@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,v0.4.0-incubating_2.10,5243,1
+Method,Most,v0.4.0-incubating_2.11,5314,4
+Method,All,v0.4.0-incubating_2.10,4524,720
+Method,All,v0.4.0-incubating_2.11,5315,3
+File,Most,v0.4.0-incubating_2.10,718,1
+File,Most,v0.4.0-incubating_2.11,729,2
+File,All,v0.4.0-incubating_2.10,521,198
+File,All,v0.4.0-incubating_2.11,728,3

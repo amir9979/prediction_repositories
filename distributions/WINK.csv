@@ -6,9 +6,9 @@ Method,Most,wink-1.1.1-incubating,9860,0
 Method,Most,wink-1.1.2-incubating,9860,0
 Method,Most,wink-1.1.3-incubating,9860,0
 Method,Most,wink-1.2.0-incubating,9860,0
-Method,Most,wink-1.2.1-incubating,9863,3
+Method,Most,wink-1.2.1-incubating,9866,0
 Method,Most,wink-1.3.0-RC1,9866,0
-Method,Most,wink-1.3.0,9848,4
+Method,Most,wink-1.3.0,9851,1
 Method,Most,wink-1.4.0-RC1,9852,0
 Method,All,wink-0.1-incubating,9860,0
 Method,All,wink-1.0-incubating,9860,0
@@ -17,7 +17,7 @@ Method,All,wink-1.1.1-incubating,9860,0
 Method,All,wink-1.1.2-incubating,9860,0
 Method,All,wink-1.1.3-incubating,9860,0
 Method,All,wink-1.2.0-incubating,9860,0
-Method,All,wink-1.2.1-incubating,9863,3
+Method,All,wink-1.2.1-incubating,9866,0
 Method,All,wink-1.3.0-RC1,9866,0
 Method,All,wink-1.3.0,9809,43
 Method,All,wink-1.4.0-RC1,9852,0
@@ -28,7 +28,7 @@ File,Most,wink-1.1.1-incubating,1781,0
 File,Most,wink-1.1.2-incubating,1781,0
 File,Most,wink-1.1.3-incubating,1781,0
 File,Most,wink-1.2.0-incubating,1781,0
-File,Most,wink-1.2.1-incubating,1779,2
+File,Most,wink-1.2.1-incubating,1781,0
 File,Most,wink-1.3.0-RC1,1781,0
 File,Most,wink-1.3.0,1789,2
 File,Most,wink-1.4.0-RC1,1791,0
@@ -39,7 +39,7 @@ File,All,wink-1.1.1-incubating,1781,0
 File,All,wink-1.1.2-incubating,1781,0
 File,All,wink-1.1.3-incubating,1781,0
 File,All,wink-1.2.0-incubating,1781,0
-File,All,wink-1.2.1-incubating,1779,2
+File,All,wink-1.2.1-incubating,1781,0
 File,All,wink-1.3.0-RC1,1781,0
 File,All,wink-1.3.0,1776,15
 File,All,wink-1.4.0-RC1,1791,0

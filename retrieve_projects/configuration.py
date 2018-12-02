@@ -6,7 +6,7 @@ import git
 class ConfigurationCreator(object):
     REPO_DIR = r"C:\amirelm\repos"
     CONFIGRATION_PATH = r"C:\amirelm\configurations"
-    CONFIGRATION = r"""workingDir=C:\amirelm\projects_distributions\{PRODUCT_NAME}
+    CONFIGRATION = r"""workingDir=C:\amirelm\projects_distributions1\{PRODUCT_NAME}
 git=C:\amirelm\repos\{PRODUCT_NAME}
 issue_tracker_product_name={PRODUCT_NAME}
 issue_tracker_url=https://issues.apache.org/jira

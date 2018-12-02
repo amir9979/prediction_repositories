@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,EMAIL_1_3_1,649,1
+Method,Most,EMAIL_1_3_2,747,0
+Method,All,EMAIL_1_3_1,650,0
+Method,All,EMAIL_1_3_2,747,0
+File,Most,EMAIL_1_3_1,92,0
+File,Most,EMAIL_1_3_2,92,0
+File,All,EMAIL_1_3_1,92,0
+File,All,EMAIL_1_3_2,92,0

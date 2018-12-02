@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,juneau-7.0.0,24474,2
+Method,Most,juneau-7.1.0,33499,2
+Method,Most,juneau-7.2.0,34045,0
+Method,Most,juneau-7.2.1,34034,1
+Method,All,juneau-7.0.0,24049,427
+Method,All,juneau-7.1.0,33493,8
+Method,All,juneau-7.2.0,34045,0
+Method,All,juneau-7.2.1,34034,1
+File,Most,juneau-7.0.0,3659,2
+File,Most,juneau-7.1.0,4115,1
+File,Most,juneau-7.2.0,4147,0
+File,Most,juneau-7.2.1,4149,1
+File,All,juneau-7.0.0,3632,29
+File,All,juneau-7.1.0,4091,25
+File,All,juneau-7.2.0,4147,0
+File,All,juneau-7.2.1,4149,1

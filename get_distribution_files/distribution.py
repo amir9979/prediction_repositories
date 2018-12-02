@@ -26,7 +26,7 @@ class DistributionRow(object):
 
 
 class Distribution(object):
-    DISTRIBUTIONS_DIR = r"C:\amirelm\projects_distributions"
+    DISTRIBUTIONS_DIR = r"C:\amirelm\projects_distributions1"
 
     def __init__(self, file_path):
         self.path = file_path

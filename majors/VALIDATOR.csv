@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,VALIDATOR_1_0,1126,0
+Method,Most,VALIDATOR_1_0_1,1126,0
+Method,All,VALIDATOR_1_0,1126,0
+Method,All,VALIDATOR_1_0_1,1126,0
+File,Most,VALIDATOR_1_0,164,0
+File,Most,VALIDATOR_1_0_1,164,0
+File,All,VALIDATOR_1_0,164,0
+File,All,VALIDATOR_1_0_1,164,0

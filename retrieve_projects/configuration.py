@@ -6,6 +6,9 @@ import git
 class ConfigurationCreator(object):
     REPO_DIR = r"C:\amirelm\repos"
     CONFIGRATION_PATH = r"C:\amirelm\configurations"
+    MINORS_CONFIGRATION_PATH = r"C:\amirelm\minors_configurations"
+    DISTRIBUTIONS_WORKING_PATH = r"C:\amirelm\projects_distributions1"
+    MINORS_WORKING_PATH = r"C:\amirelm\projects_distributions1"
     CONFIGRATION = r"""workingDir=C:\amirelm\projects_distributions1\{PRODUCT_NAME}
 git=C:\amirelm\repos\{PRODUCT_NAME}
 issue_tracker_product_name={PRODUCT_NAME}

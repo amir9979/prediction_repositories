@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,VELTOOLS_1_0,3278,11
+Method,Most,2.0,3884,3
+Method,All,VELTOOLS_1_0,3256,33
+Method,All,2.0,3884,3
+File,Most,VELTOOLS_1_0,311,8
+File,Most,2.0,369,3
+File,All,VELTOOLS_1_0,310,9
+File,All,2.0,368,4

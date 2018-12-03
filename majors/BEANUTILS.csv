@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,BEANUTILS_1_0,2380,0
+Method,All,BEANUTILS_1_0,2380,0
+File,Most,BEANUTILS_1_0,226,0
+File,All,BEANUTILS_1_0,226,0

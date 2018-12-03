@@ -1,1 +1,17 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,tiles-parent-2.0.0,2192,1
+Method,Most,tiles-2.0.0,3020,28
+Method,Most,tiles-2.1.0,4056,48
+Method,Most,tiles-2.2.0,8477,33
+Method,All,tiles-parent-2.0.0,2192,1
+Method,All,tiles-2.0.0,2706,342
+Method,All,tiles-2.1.0,3834,270
+Method,All,tiles-2.2.0,8170,340
+File,Most,tiles-parent-2.0.0,362,1
+File,Most,tiles-2.0.0,530,23
+File,Most,tiles-2.1.0,728,38
+File,Most,tiles-2.2.0,1726,31
+File,All,tiles-parent-2.0.0,362,1
+File,All,tiles-2.0.0,415,138
+File,All,tiles-2.1.0,654,112
+File,All,tiles-2.2.0,1634,123

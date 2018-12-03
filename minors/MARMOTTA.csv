@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,3.2.0,12107,18
+Method,Most,3.3.0,12751,20
+Method,All,3.2.0,12017,108
+Method,All,3.3.0,12735,36
+File,Most,3.2.0,2555,15
+File,Most,3.3.0,2778,10
+File,All,3.2.0,2540,30
+File,All,3.3.0,2770,18

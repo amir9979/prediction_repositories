@@ -1,1 +1,13 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-archetype-portlet-1.0.1,1453,28
+Method,Most,maven-archetype-2.0,1616,20
+Method,Most,maven-archetype-3.0.0,1640,1
+Method,All,maven-archetype-portlet-1.0.1,1334,147
+Method,All,maven-archetype-2.0,1599,37
+Method,All,maven-archetype-3.0.0,1640,1
+File,Most,maven-archetype-portlet-1.0.1,363,15
+File,Most,maven-archetype-2.0,466,8
+File,Most,maven-archetype-3.0.0,474,1
+File,All,maven-archetype-portlet-1.0.1,334,44
+File,All,maven-archetype-2.0,440,34
+File,All,maven-archetype-3.0.0,474,1

@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,apache-jspf-project-1.0.0,999,0
+Method,All,apache-jspf-project-1.0.0,999,0
+File,Most,apache-jspf-project-1.0.0,206,0
+File,All,apache-jspf-project-1.0.0,206,0

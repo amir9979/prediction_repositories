@@ -1,1 +1,17 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,meecrowave-0.2.0,1544,3
+Method,Most,meecrowave-0.3.0,1680,5
+Method,Most,meecrowave-1.0.0,1703,4
+Method,Most,meecrowave-1.1.0,1739,10
+Method,All,meecrowave-0.2.0,1541,6
+Method,All,meecrowave-0.3.0,1681,4
+Method,All,meecrowave-1.0.0,1702,5
+Method,All,meecrowave-1.1.0,1735,14
+File,Most,meecrowave-0.2.0,212,2
+File,Most,meecrowave-0.3.0,237,3
+File,Most,meecrowave-1.0.0,243,3
+File,Most,meecrowave-1.1.0,245,8
+File,All,meecrowave-0.2.0,211,3
+File,All,meecrowave-0.3.0,237,3
+File,All,meecrowave-1.0.0,243,3
+File,All,meecrowave-1.1.0,244,9

@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,MetaModel-5.0.0,5996,4
+Method,All,MetaModel-5.0.0,5949,51
+File,Most,MetaModel-5.0.0,1337,4
+File,All,MetaModel-5.0.0,1323,18

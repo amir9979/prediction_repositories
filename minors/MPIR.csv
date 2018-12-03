@@ -8,6 +8,7 @@ Method,Most,maven-project-info-reports-plugin-2.5,577,1
 Method,Most,maven-project-info-reports-plugin-2.6,583,1
 Method,Most,maven-project-info-reports-plugin-2.7,644,4
 Method,Most,maven-project-info-reports-plugin-2.8,689,0
+Method,Most,maven-project-info-reports-plugin-2.9,718,7
 Method,All,maven-project-info-reports-plugin-2.0,436,42
 Method,All,maven-project-info-reports-plugin-2.1,507,9
 Method,All,maven-project-info-reports-plugin-2.2,477,82
@@ -17,6 +18,7 @@ Method,All,maven-project-info-reports-plugin-2.5,577,1
 Method,All,maven-project-info-reports-plugin-2.6,580,4
 Method,All,maven-project-info-reports-plugin-2.7,638,10
 Method,All,maven-project-info-reports-plugin-2.8,689,0
+Method,All,maven-project-info-reports-plugin-2.9,660,65
 File,Most,maven-project-info-reports-plugin-2.0,46,8
 File,Most,maven-project-info-reports-plugin-2.1,54,4
 File,Most,maven-project-info-reports-plugin-2.2,56,4
@@ -26,6 +28,7 @@ File,Most,maven-project-info-reports-plugin-2.5,60,1
 File,Most,maven-project-info-reports-plugin-2.6,60,1
 File,Most,maven-project-info-reports-plugin-2.7,61,4
 File,Most,maven-project-info-reports-plugin-2.8,81,1
+File,Most,maven-project-info-reports-plugin-2.9,82,3
 File,All,maven-project-info-reports-plugin-2.0,43,11
 File,All,maven-project-info-reports-plugin-2.1,54,4
 File,All,maven-project-info-reports-plugin-2.2,42,18
@@ -35,3 +38,4 @@ File,All,maven-project-info-reports-plugin-2.5,60,1
 File,All,maven-project-info-reports-plugin-2.6,59,2
 File,All,maven-project-info-reports-plugin-2.7,61,4
 File,All,maven-project-info-reports-plugin-2.8,79,3
+File,All,maven-project-info-reports-plugin-2.9,67,18

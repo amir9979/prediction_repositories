@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,BCEL_5_0,6203,24
+Method,All,BCEL_5_0,5975,252
+File,Most,BCEL_5_0,856,26
+File,All,BCEL_5_0,501,381

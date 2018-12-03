@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,deltaspike-project-1.0.0,5085,6
+Method,Most,deltaspike-project-1.0.1,5112,3
+Method,Most,deltaspike-project-1.0.2,5137,5
+Method,All,deltaspike-project-1.0.0,5056,35
+Method,All,deltaspike-project-1.0.1,5105,10
+Method,All,deltaspike-project-1.0.2,5131,11
+File,Most,deltaspike-project-1.0.0,1702,4
+File,Most,deltaspike-project-1.0.1,1713,3
+File,Most,deltaspike-project-1.0.2,1721,5
+File,All,deltaspike-project-1.0.0,1694,12
+File,All,deltaspike-project-1.0.1,1710,6
+File,All,deltaspike-project-1.0.2,1720,6

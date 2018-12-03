@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,wagon-1.0,1817,0
+Method,Most,wagon-2.0,2047,3
+Method,All,wagon-1.0,1817,0
+Method,All,wagon-2.0,2029,21
+File,Most,wagon-1.0,258,0
+File,Most,wagon-2.0,281,3
+File,All,wagon-1.0,258,0
+File,All,wagon-2.0,274,10

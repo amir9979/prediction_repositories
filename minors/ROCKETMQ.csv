@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,rocketmq-all-4.2.0,11293,0
+Method,All,rocketmq-all-4.2.0,11293,0
+File,Most,rocketmq-all-4.2.0,1384,0
+File,All,rocketmq-all-4.2.0,1384,0

@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,release-0.7.0,3294,147
+Method,All,release-0.7.0,2469,972
+File,Most,release-0.7.0,574,90
+File,All,release-0.7.0,393,271

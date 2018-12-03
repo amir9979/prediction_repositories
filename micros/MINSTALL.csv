@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-install-plugin-2.3.1,88,0
+Method,Most,maven-install-plugin-2.5.1,88,0
+Method,All,maven-install-plugin-2.3.1,88,0
+Method,All,maven-install-plugin-2.5.1,88,0
+File,Most,maven-install-plugin-2.3.1,11,1
+File,Most,maven-install-plugin-2.5.1,12,0
+File,All,maven-install-plugin-2.3.1,10,2
+File,All,maven-install-plugin-2.5.1,12,0

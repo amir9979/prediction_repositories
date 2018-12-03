@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-clean-plugin-2.1.1,62,0
+Method,Most,maven-clean-plugin-2.4.1,63,0
+Method,Most,maven-clean-plugin-2.6.1,63,0
+Method,Most,maven-clean-plugin-3.0.0,63,2
+Method,All,maven-clean-plugin-2.1.1,62,0
+Method,All,maven-clean-plugin-2.4.1,63,0
+Method,All,maven-clean-plugin-2.6.1,63,0
+Method,All,maven-clean-plugin-3.0.0,63,2
+File,Most,maven-clean-plugin-2.1.1,9,0
+File,Most,maven-clean-plugin-2.4.1,9,0
+File,Most,maven-clean-plugin-2.6.1,16,0
+File,Most,maven-clean-plugin-3.0.0,15,1
+File,All,maven-clean-plugin-2.1.1,9,0
+File,All,maven-clean-plugin-2.4.1,9,0
+File,All,maven-clean-plugin-2.6.1,16,0
+File,All,maven-clean-plugin-3.0.0,14,2

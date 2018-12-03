@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,activemq-4.0,17265,0
+Method,Most,activemq-4.0.1,17265,0
+Method,Most,activemq-4.0.2,20114,65
+Method,All,activemq-4.0,17265,0
+Method,All,activemq-4.0.1,17265,0
+Method,All,activemq-4.0.2,19489,690
+File,Most,activemq-4.0,2690,0
+File,Most,activemq-4.0.1,2690,0
+File,Most,activemq-4.0.2,2920,54
+File,All,activemq-4.0,2690,0
+File,All,activemq-4.0.1,2690,0
+File,All,activemq-4.0.2,2782,192

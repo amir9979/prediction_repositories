@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-checkstyle-plugin-2.0,308,9
+Method,All,maven-checkstyle-plugin-2.0,283,34
+File,Most,maven-checkstyle-plugin-2.0,93,5
+File,All,maven-checkstyle-plugin-2.0,66,32

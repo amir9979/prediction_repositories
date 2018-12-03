@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,APACHE_ODE_1.2,10258,55
+Method,All,APACHE_ODE_1.2,10141,172
+File,Most,APACHE_ODE_1.2,1768,34
+File,All,APACHE_ODE_1.2,1712,90

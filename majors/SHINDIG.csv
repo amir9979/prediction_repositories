@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,shindig-project-1.0.1,11224,16
+Method,Most,shindig-project-2.0.0,11295,11
+Method,Most,shindig-project-2.0.1,11500,0
+Method,All,shindig-project-1.0.1,11167,73
+Method,All,shindig-project-2.0.0,11282,24
+Method,All,shindig-project-2.0.1,11500,0
+File,Most,shindig-project-1.0.1,1284,14
+File,Most,shindig-project-2.0.0,1296,8
+File,Most,shindig-project-2.0.1,1321,0
+File,All,shindig-project-1.0.1,1253,45
+File,All,shindig-project-2.0.0,1292,12
+File,All,shindig-project-2.0.1,1321,0

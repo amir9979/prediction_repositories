@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,mahout-collection-codegen-plugin-1.0,10397,0
+Method,Most,mahout-collections-1.0,15133,274
+Method,All,mahout-collection-codegen-plugin-1.0,10397,0
+Method,All,mahout-collections-1.0,13935,1472
+File,Most,mahout-collection-codegen-plugin-1.0,1647,0
+File,Most,mahout-collections-1.0,2300,179
+File,All,mahout-collection-codegen-plugin-1.0,1647,0
+File,All,mahout-collections-1.0,1990,489

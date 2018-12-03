@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-jxr-1.0,495,8
+Method,All,maven-jxr-1.0,457,46
+File,Most,maven-jxr-1.0,122,5
+File,All,maven-jxr-1.0,111,16

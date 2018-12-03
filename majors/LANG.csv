@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,LANG_1_0,4389,0
+Method,Most,LANG_1_0_1,4389,0
+Method,Most,LANG_2_0,5710,83
+Method,Most,LANG_3_0,6037,4
+Method,All,LANG_1_0,4389,0
+Method,All,LANG_1_0_1,4389,0
+Method,All,LANG_2_0,5632,161
+Method,All,LANG_3_0,6037,4
+File,Most,LANG_1_0,238,0
+File,Most,LANG_1_0_1,238,0
+File,Most,LANG_2_0,538,43
+File,Most,LANG_3_0,601,2
+File,All,LANG_1_0,238,0
+File,All,LANG_1_0_1,238,0
+File,All,LANG_2_0,518,63
+File,All,LANG_3_0,597,6

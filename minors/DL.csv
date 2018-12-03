@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,v0.4.0-incubating_2.10,5313,5
+Method,All,v0.4.0-incubating_2.10,4597,721
+File,Most,v0.4.0-incubating_2.10,728,3
+File,All,v0.4.0-incubating_2.10,533,198

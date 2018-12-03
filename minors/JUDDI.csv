@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,juddi-2.0.0,5966,0
+Method,Most,juddi-3.0.0,6314,19
+Method,Most,juddi-3.1.0,9640,84
+Method,Most,juddi-3.2.0,10855,43
+Method,All,juddi-2.0.0,5966,0
+Method,All,juddi-3.0.0,6254,79
+Method,All,juddi-3.1.0,8733,991
+Method,All,juddi-3.2.0,10275,623
+File,Most,juddi-2.0.0,1200,0
+File,Most,juddi-3.0.0,1256,21
+File,Most,juddi-3.1.0,1660,60
+File,Most,juddi-3.2.0,1842,31
+File,All,juddi-2.0.0,1200,0
+File,All,juddi-3.0.0,1240,37
+File,All,juddi-3.1.0,1360,360
+File,All,juddi-3.2.0,1715,158

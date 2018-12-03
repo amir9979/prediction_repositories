@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,tiles-request-1.0.0,1765,2
+Method,All,tiles-request-1.0.0,1764,3
+File,Most,tiles-request-1.0.0,299,1
+File,All,tiles-request-1.0.0,299,1

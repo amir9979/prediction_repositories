@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,car-maven-plugin-1.1,30319,40
+Method,Most,1.2,41723,2
+Method,All,car-maven-plugin-1.1,29565,794
+Method,All,1.2,41323,402
+File,Most,car-maven-plugin-1.1,5902,4
+File,Most,1.2,6289,2
+File,All,car-maven-plugin-1.1,5748,158
+File,All,1.2,6218,73

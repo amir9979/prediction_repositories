@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,shiro-root-1.1.0,8069,26
+Method,Most,1.2.0,8095,0
+Method,Most,shiro-root-1.2.0,6184,8
+Method,Most,shiro-root-1.3.0,6520,14
+Method,All,shiro-root-1.1.0,7902,193
+Method,All,1.2.0,8095,0
+Method,All,shiro-root-1.2.0,6185,7
+Method,All,shiro-root-1.3.0,6498,36
+File,Most,shiro-root-1.1.0,2475,23
+File,Most,1.2.0,2498,0
+File,Most,shiro-root-1.2.0,1891,2
+File,Most,shiro-root-1.3.0,1987,3
+File,All,shiro-root-1.1.0,2436,62
+File,All,1.2.0,2498,0
+File,All,shiro-root-1.2.0,1889,4
+File,All,shiro-root-1.3.0,1986,4

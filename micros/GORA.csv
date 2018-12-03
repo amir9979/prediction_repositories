@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,apache-nutch-0.2.1,2360,0
+Method,Most,apache-gora-0.2.1,3493,62
+Method,All,apache-nutch-0.2.1,2360,0
+Method,All,apache-gora-0.2.1,3401,154
+File,Most,apache-nutch-0.2.1,291,0
+File,Most,apache-gora-0.2.1,382,21
+File,All,apache-nutch-0.2.1,291,0
+File,All,apache-gora-0.2.1,359,44

@@ -1,1 +1,17 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,MetaModel-4.4.0,5112,11
+Method,Most,MetaModel-4.5.0,5549,37
+Method,Most,MetaModel-4.6.0,5947,9
+Method,Most,MetaModel-5.0.0,6353,8
+Method,All,MetaModel-4.4.0,5012,111
+Method,All,MetaModel-4.5.0,5327,259
+Method,All,MetaModel-4.6.0,5915,41
+Method,All,MetaModel-5.0.0,6159,202
+File,Most,MetaModel-4.4.0,1202,10
+File,Most,MetaModel-4.5.0,1280,30
+File,Most,MetaModel-4.6.0,1330,8
+File,Most,MetaModel-5.0.0,1364,7
+File,All,MetaModel-4.4.0,1173,39
+File,All,MetaModel-4.5.0,1229,81
+File,All,MetaModel-4.6.0,1315,23
+File,All,MetaModel-5.0.0,1315,56

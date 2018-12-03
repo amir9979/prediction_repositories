@@ -7,7 +7,10 @@ Method,Most,redback-2.0,15135,2
 Method,Most,archiva-parent-10,15137,0
 Method,Most,redback-2.1,15765,1
 Method,Most,archiva-parent-11,15766,0
-Method,Most,redback-2.2,15774,1
+Method,Most,redback-2.2,15766,0
+Method,Most,archiva-2.0.0,15774,1
+Method,Most,archiva-parent-12,15950,3
+Method,Most,archiva-2.1.0,15925,13
 Method,All,archiva-1.0,8319,46
 Method,All,archiva-1.1,9530,44
 Method,All,archiva-1.2,10658,11
@@ -16,7 +19,10 @@ Method,All,redback-2.0,15135,2
 Method,All,archiva-parent-10,15137,0
 Method,All,redback-2.1,15764,2
 Method,All,archiva-parent-11,15766,0
-Method,All,redback-2.2,15765,10
+Method,All,redback-2.2,15766,0
+Method,All,archiva-2.0.0,15765,10
+Method,All,archiva-parent-12,15948,5
+Method,All,archiva-2.1.0,15921,17
 File,Most,archiva-1.0,1531,5
 File,Most,archiva-1.1,1978,11
 File,Most,archiva-1.2,1865,1
@@ -25,7 +31,10 @@ File,Most,redback-2.0,2513,3
 File,Most,archiva-parent-10,2516,0
 File,Most,redback-2.1,2562,1
 File,Most,archiva-parent-11,2563,0
-File,Most,redback-2.2,2566,1
+File,Most,redback-2.2,2563,0
+File,Most,archiva-2.0.0,2566,1
+File,Most,archiva-parent-12,2575,1
+File,Most,archiva-2.1.0,2565,5
 File,All,archiva-1.0,1512,24
 File,All,archiva-1.1,1966,23
 File,All,archiva-1.2,1864,2
@@ -34,4 +43,7 @@ File,All,redback-2.0,2506,10
 File,All,archiva-parent-10,2516,0
 File,All,redback-2.1,2560,3
 File,All,archiva-parent-11,2563,0
-File,All,redback-2.2,2563,4
+File,All,redback-2.2,2563,0
+File,All,archiva-2.0.0,2563,4
+File,All,archiva-parent-12,2570,6
+File,All,archiva-2.1.0,2558,12

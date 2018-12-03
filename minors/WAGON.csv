@@ -10,6 +10,10 @@ Method,Most,wagon-2.5,1961,0
 Method,Most,wagon-2.6,1980,0
 Method,Most,wagon-2.7,1996,0
 Method,Most,wagon-2.8,2023,0
+Method,Most,wagon-2.9,2024,0
+Method,Most,wagon-2.10,2048,2
+Method,Most,wagon-3.0.0,2069,3
+Method,Most,wagon-3.1.0,2098,1
 Method,All,WAGON_0_9,1582,46
 Method,All,wagon-1.0,1817,0
 Method,All,wagon-2.0,1822,0
@@ -21,6 +25,10 @@ Method,All,wagon-2.5,1961,0
 Method,All,wagon-2.6,1980,0
 Method,All,wagon-2.7,1996,0
 Method,All,wagon-2.8,2023,0
+Method,All,wagon-2.9,2024,0
+Method,All,wagon-2.10,2042,8
+Method,All,wagon-3.0.0,2069,3
+Method,All,wagon-3.1.0,2096,3
 File,Most,WAGON_0_9,230,10
 File,Most,wagon-1.0,258,0
 File,Most,wagon-2.0,258,0
@@ -32,6 +40,10 @@ File,Most,wagon-2.5,278,0
 File,Most,wagon-2.6,280,0
 File,Most,wagon-2.7,282,0
 File,Most,wagon-2.8,282,0
+File,Most,wagon-2.9,282,0
+File,Most,wagon-2.10,282,2
+File,Most,wagon-3.0.0,286,0
+File,Most,wagon-3.1.0,287,1
 File,All,WAGON_0_9,222,18
 File,All,wagon-1.0,258,0
 File,All,wagon-2.0,258,0
@@ -43,3 +55,7 @@ File,All,wagon-2.5,278,0
 File,All,wagon-2.6,280,0
 File,All,wagon-2.7,282,0
 File,All,wagon-2.8,282,0
+File,All,wagon-2.9,282,0
+File,All,wagon-2.10,279,5
+File,All,wagon-3.0.0,286,0
+File,All,wagon-3.1.0,287,1

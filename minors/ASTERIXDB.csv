@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,vault/hyrax-next@10,26133,9
+Method,Most,vault/asterix_stabilization@58,27869,10
+Method,Most,vault/asterix_fix_issue_96,39580,33
+Method,All,vault/hyrax-next@10,25926,216
+Method,All,vault/asterix_stabilization@58,27802,77
+Method,All,vault/asterix_fix_issue_96,37900,1713
+File,Most,vault/hyrax-next@10,5392,7
+File,Most,vault/asterix_stabilization@58,5779,3
+File,Most,vault/asterix_fix_issue_96,8110,29
+File,All,vault/hyrax-next@10,5355,44
+File,All,vault/asterix_stabilization@58,5760,22
+File,All,vault/asterix_fix_issue_96,7660,479

@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-project-info-reports-plugin-2.0,288,0
+Method,Most,maven-project-info-reports-plugin-2.0.1,690,35
+Method,All,maven-project-info-reports-plugin-2.0,288,0
+Method,All,maven-project-info-reports-plugin-2.0.1,566,159
+File,Most,maven-project-info-reports-plugin-2.0,50,0
+File,Most,maven-project-info-reports-plugin-2.0.1,71,14
+File,All,maven-project-info-reports-plugin-2.0,50,0
+File,All,maven-project-info-reports-plugin-2.0.1,57,28

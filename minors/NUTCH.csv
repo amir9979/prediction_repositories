@@ -18,6 +18,7 @@ Method,Most,release-2.2,2762,5
 Method,Most,release-1.7,2823,13
 Method,Most,release-1.8,2858,23
 Method,Most,release-1.9,2888,8
+Method,Most,release-2.3,3242,17
 Method,All,release-0.7,3494,0
 Method,All,release-0.8,3494,0
 Method,All,release-0.9,3494,0
@@ -37,6 +38,7 @@ Method,All,release-2.2,2749,18
 Method,All,release-1.7,2807,29
 Method,All,release-1.8,2857,24
 Method,All,release-1.9,2880,16
+Method,All,release-2.3,3174,85
 File,Most,release-0.7,519,0
 File,Most,release-0.8,519,0
 File,Most,release-0.9,519,0
@@ -56,6 +58,7 @@ File,Most,release-2.2,415,4
 File,Most,release-1.7,415,11
 File,Most,release-1.8,460,11
 File,Most,release-1.9,466,8
+File,Most,release-2.3,508,10
 File,All,release-0.7,519,0
 File,All,release-0.8,519,0
 File,All,release-0.9,519,0
@@ -75,3 +78,4 @@ File,All,release-2.2,410,9
 File,All,release-1.7,410,16
 File,All,release-1.8,457,14
 File,All,release-1.9,464,10
+File,All,release-2.3,499,19

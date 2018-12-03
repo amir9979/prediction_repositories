@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-resolver-1.1.0,4753,0
+Method,All,maven-resolver-1.1.0,4753,0
+File,Most,maven-resolver-1.1.0,913,0
+File,All,maven-resolver-1.1.0,913,0

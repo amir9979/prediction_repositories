@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-scm-publish-plugin-1.0,25,0
+Method,Most,maven-scm-publish-plugin-1.1,27,0
+Method,All,maven-scm-publish-plugin-1.0,25,0
+Method,All,maven-scm-publish-plugin-1.1,27,0
+File,Most,maven-scm-publish-plugin-1.0,7,0
+File,Most,maven-scm-publish-plugin-1.1,8,0
+File,All,maven-scm-publish-plugin-1.0,7,0
+File,All,maven-scm-publish-plugin-1.1,8,0

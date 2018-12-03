@@ -1,1 +1,13 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,jena-csv-1.0.1,37122,0
+Method,Most,jena-csv-1.0.0,44593,51
+Method,Most,jena-3.0.0,46479,30
+Method,All,jena-csv-1.0.1,37122,0
+Method,All,jena-csv-1.0.0,44360,284
+Method,All,jena-3.0.0,46392,117
+File,Most,jena-csv-1.0.1,5125,0
+File,Most,jena-csv-1.0.0,6599,28
+File,Most,jena-3.0.0,6803,19
+File,All,jena-csv-1.0.1,5125,0
+File,All,jena-csv-1.0.0,6505,122
+File,All,jena-3.0.0,6776,46

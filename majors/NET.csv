@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,NET_1_0_0,1682,33
+Method,Most,NET_2_0,2207,64
+Method,Most,NET_3_0,2270,1
+Method,All,NET_1_0_0,1666,49
+Method,All,NET_2_0,2157,114
+Method,All,NET_3_0,2270,1
+File,Most,NET_1_0_0,377,23
+File,Most,NET_2_0,435,36
+File,Most,NET_3_0,470,1
+File,All,NET_1_0_0,356,44
+File,All,NET_2_0,428,43
+File,All,NET_3_0,470,1

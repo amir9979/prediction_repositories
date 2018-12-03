@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-invoker-plugin-1.0,219,4
+Method,Most,maven-invoker-plugin-2.0.0,409,1
+Method,Most,maven-invoker-plugin-3.0.0,414,0
+Method,All,maven-invoker-plugin-1.0,167,56
+Method,All,maven-invoker-plugin-2.0.0,404,6
+Method,All,maven-invoker-plugin-3.0.0,414,0
+File,Most,maven-invoker-plugin-1.0,21,3
+File,Most,maven-invoker-plugin-2.0.0,47,1
+File,Most,maven-invoker-plugin-3.0.0,51,0
+File,All,maven-invoker-plugin-1.0,14,10
+File,All,maven-invoker-plugin-2.0.0,46,2
+File,All,maven-invoker-plugin-3.0.0,51,0

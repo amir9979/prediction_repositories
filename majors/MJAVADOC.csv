@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-javadoc-plugin-2.0,1635,62
+Method,Most,maven-javadoc-plugin-3.0.0,1707,3
+Method,All,maven-javadoc-plugin-2.0,1513,184
+Method,All,maven-javadoc-plugin-3.0.0,1696,14
+File,Most,maven-javadoc-plugin-2.0,399,14
+File,Most,maven-javadoc-plugin-3.0.0,412,4
+File,All,maven-javadoc-plugin-2.0,375,38
+File,All,maven-javadoc-plugin-3.0.0,410,6

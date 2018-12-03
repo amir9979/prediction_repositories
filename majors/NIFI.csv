@@ -1,1 +1,5 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,rel/nifi-1.0.0,30909,150
+Method,All,rel/nifi-1.0.0,30225,834
+File,Most,rel/nifi-1.0.0,5296,98
+File,All,rel/nifi-1.0.0,5147,247

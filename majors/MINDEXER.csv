@@ -1,1 +1,9 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-indexer-4.0.0,1037,9
+Method,Most,maven-indexer-5.0.0,1441,9
+Method,All,maven-indexer-4.0.0,982,64
+Method,All,maven-indexer-5.0.0,1399,51
+File,Most,maven-indexer-4.0.0,201,8
+File,Most,maven-indexer-5.0.0,253,5
+File,All,maven-indexer-4.0.0,179,30
+File,All,maven-indexer-5.0.0,239,19

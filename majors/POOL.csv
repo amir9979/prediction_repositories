@@ -1,1 +1,17 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,POOL_1_0,1205,0
+Method,Most,POOL_1_0_1,1205,0
+Method,Most,jwsdp_10_ea2_01,1205,0
+Method,Most,jwsp_10_01,2532,34
+Method,All,POOL_1_0,1205,0
+Method,All,POOL_1_0_1,1205,0
+Method,All,jwsdp_10_ea2_01,1205,0
+Method,All,jwsp_10_01,2390,176
+File,Most,POOL_1_0,110,0
+File,Most,POOL_1_0_1,110,0
+File,Most,jwsdp_10_ea2_01,110,0
+File,Most,jwsp_10_01,187,7
+File,All,POOL_1_0,110,0
+File,All,POOL_1_0_1,110,0
+File,All,jwsdp_10_ea2_01,110,0
+File,All,jwsp_10_01,173,21

@@ -8,6 +8,8 @@ Method,Most,maven-javadoc-plugin-2.5,829,10
 Method,Most,maven-javadoc-plugin-2.6,958,6
 Method,Most,maven-javadoc-plugin-2.7,973,2
 Method,Most,maven-javadoc-plugin-2.8,1011,10
+Method,Most,maven-javadoc-plugin-2.9,1021,6
+Method,Most,maven-javadoc-plugin-2.10,1693,4
 Method,All,maven-javadoc-plugin-2.0,246,40
 Method,All,maven-javadoc-plugin-2.1,286,0
 Method,All,maven-javadoc-plugin-2.2,382,16
@@ -17,6 +19,8 @@ Method,All,maven-javadoc-plugin-2.5,813,26
 Method,All,maven-javadoc-plugin-2.6,941,23
 Method,All,maven-javadoc-plugin-2.7,907,68
 Method,All,maven-javadoc-plugin-2.8,1007,14
+Method,All,maven-javadoc-plugin-2.9,1023,4
+Method,All,maven-javadoc-plugin-2.10,1658,39
 File,Most,maven-javadoc-plugin-2.0,62,4
 File,Most,maven-javadoc-plugin-2.1,66,0
 File,Most,maven-javadoc-plugin-2.2,88,2
@@ -26,6 +30,8 @@ File,Most,maven-javadoc-plugin-2.5,163,9
 File,Most,maven-javadoc-plugin-2.6,201,3
 File,Most,maven-javadoc-plugin-2.7,204,1
 File,Most,maven-javadoc-plugin-2.8,223,4
+File,Most,maven-javadoc-plugin-2.9,244,3
+File,Most,maven-javadoc-plugin-2.10,406,7
 File,All,maven-javadoc-plugin-2.0,62,4
 File,All,maven-javadoc-plugin-2.1,66,0
 File,All,maven-javadoc-plugin-2.2,88,2
@@ -35,3 +41,5 @@ File,All,maven-javadoc-plugin-2.5,163,9
 File,All,maven-javadoc-plugin-2.6,198,6
 File,All,maven-javadoc-plugin-2.7,200,5
 File,All,maven-javadoc-plugin-2.8,211,16
+File,All,maven-javadoc-plugin-2.9,244,3
+File,All,maven-javadoc-plugin-2.10,390,23

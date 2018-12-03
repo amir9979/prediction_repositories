@@ -1,1 +1,17 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,1.0.0,5518,0
+Method,Most,1.0.10,5518,0
+Method,Most,1.1.0,5518,0
+Method,Most,2.0.0,7593,16
+Method,All,1.0.0,5518,0
+Method,All,1.0.10,5518,0
+Method,All,1.1.0,5518,0
+Method,All,2.0.0,7548,61
+File,Most,1.0.0,572,0
+File,Most,1.0.10,572,0
+File,Most,1.1.0,572,0
+File,Most,2.0.0,873,8
+File,All,1.0.0,572,0
+File,All,1.0.10,572,0
+File,All,1.1.0,572,0
+File,All,2.0.0,863,18

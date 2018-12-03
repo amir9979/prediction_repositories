@@ -1,1 +1,13 @@
 granularity,buggedType,version_name,valid,bug
+Method,Most,maven-dependency-plugin-2.0,1547,8
+Method,Most,maven-dependency-plugin-3.0.0,1608,0
+Method,Most,maven-dependency-plugin-3.0.1,1760,1
+Method,All,maven-dependency-plugin-2.0,1531,24
+Method,All,maven-dependency-plugin-3.0.0,1608,0
+Method,All,maven-dependency-plugin-3.0.1,1706,55
+File,Most,maven-dependency-plugin-2.0,222,12
+File,Most,maven-dependency-plugin-3.0.0,234,0
+File,Most,maven-dependency-plugin-3.0.1,236,1
+File,All,maven-dependency-plugin-2.0,213,21
+File,All,maven-dependency-plugin-3.0.0,234,0
+File,All,maven-dependency-plugin-3.0.1,193,44

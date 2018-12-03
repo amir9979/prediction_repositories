@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,sshd-1.0.0,10838,10
+Method,All,sshd-1.0.0,10744,104
+File,Most,sshd-1.0.0,1411,8
+File,All,sshd-1.0.0,1370,49

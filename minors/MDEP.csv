@@ -8,6 +8,9 @@ Method,Most,maven-dependency-plugin-2.5,1205,0
 Method,Most,maven-dependency-plugin-2.6,1283,0
 Method,Most,maven-dependency-plugin-2.7,1378,1
 Method,Most,maven-dependency-plugin-2.8,1396,1
+Method,Most,maven-dependency-plugin-2.9,1399,0
+Method,Most,maven-dependency-plugin-2.10,1554,1
+Method,Most,maven-dependency-plugin-3.0.0,1768,4
 Method,All,maven-dependency-plugin-2.0,1071,6
 Method,All,maven-dependency-plugin-2.1,1136,7
 Method,All,maven-dependency-plugin-2.2,1161,0
@@ -17,6 +20,9 @@ Method,All,maven-dependency-plugin-2.5,1205,0
 Method,All,maven-dependency-plugin-2.6,1283,0
 Method,All,maven-dependency-plugin-2.7,1378,1
 Method,All,maven-dependency-plugin-2.8,1394,3
+Method,All,maven-dependency-plugin-2.9,1399,0
+Method,All,maven-dependency-plugin-2.10,1548,7
+Method,All,maven-dependency-plugin-3.0.0,1715,57
 File,Most,maven-dependency-plugin-2.0,86,2
 File,Most,maven-dependency-plugin-2.1,97,3
 File,Most,maven-dependency-plugin-2.2,103,0
@@ -26,6 +32,9 @@ File,Most,maven-dependency-plugin-2.5,107,1
 File,Most,maven-dependency-plugin-2.6,109,1
 File,Most,maven-dependency-plugin-2.7,139,1
 File,Most,maven-dependency-plugin-2.8,141,2
+File,Most,maven-dependency-plugin-2.9,148,0
+File,Most,maven-dependency-plugin-2.10,232,2
+File,Most,maven-dependency-plugin-3.0.0,237,3
 File,All,maven-dependency-plugin-2.0,86,2
 File,All,maven-dependency-plugin-2.1,97,3
 File,All,maven-dependency-plugin-2.2,103,0
@@ -35,3 +44,6 @@ File,All,maven-dependency-plugin-2.5,107,1
 File,All,maven-dependency-plugin-2.6,109,1
 File,All,maven-dependency-plugin-2.7,135,5
 File,All,maven-dependency-plugin-2.8,141,2
+File,All,maven-dependency-plugin-2.9,148,0
+File,All,maven-dependency-plugin-2.10,228,6
+File,All,maven-dependency-plugin-3.0.0,194,46

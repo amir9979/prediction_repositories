@@ -8,6 +8,7 @@ Method,Most,maven-archetype-2.0,1555,0
 Method,Most,maven-archetype-2.1,1563,12
 Method,Most,maven-archetype-2.2,1581,2
 Method,Most,maven-archetype-2.3,1590,2
+Method,Most,maven-archetype-2.4,1632,4
 Method,All,maven-archetype-plugin-1.1,1388,0
 Method,All,maven-archetype-plugin-site-1.1,1388,0
 Method,All,maven-archetype-quickstart-1.1,1388,0
@@ -17,6 +18,7 @@ Method,All,maven-archetype-2.0,1555,0
 Method,All,maven-archetype-2.1,1574,1
 Method,All,maven-archetype-2.2,1578,5
 Method,All,maven-archetype-2.3,1586,6
+Method,All,maven-archetype-2.4,1609,27
 File,Most,maven-archetype-plugin-1.1,372,0
 File,Most,maven-archetype-plugin-site-1.1,372,0
 File,Most,maven-archetype-quickstart-1.1,372,0
@@ -26,6 +28,7 @@ File,Most,maven-archetype-2.0,408,2
 File,Most,maven-archetype-2.1,409,2
 File,Most,maven-archetype-2.2,409,2
 File,Most,maven-archetype-2.3,413,1
+File,Most,maven-archetype-2.4,470,4
 File,All,maven-archetype-plugin-1.1,372,0
 File,All,maven-archetype-plugin-site-1.1,372,0
 File,All,maven-archetype-quickstart-1.1,372,0
@@ -35,3 +38,4 @@ File,All,maven-archetype-2.0,395,15
 File,All,maven-archetype-2.1,388,23
 File,All,maven-archetype-2.2,409,2
 File,All,maven-archetype-2.3,413,1
+File,All,maven-archetype-2.4,459,15

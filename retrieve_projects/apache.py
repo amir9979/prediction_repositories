@@ -24,13 +24,21 @@ def get_apache_repos_data():
     jira_and_github = map(lambda x: x[0], filter(lambda x: x[1] > 1, Counter(github_repos + jira_elements).most_common()))
     return map(lambda key: find_repo_and_jira(key, repos, jira_projects), jira_and_github)
 
+
 if __name__ == "__main__":
     apache_repos = get_apache_repos_data()
-    # print "\n".join(
-    #     map(lambda x: "{0} git clone {1} {2}".format('call' if x[0] % 10 == 0 else 'start', x[1][0], x[1][1]),
-    #         enumerate(apache_repos)))
-    configurations = map(lambda x: ConfigurationCreator(x[1]), apache_repos)
-    manager = task.TaskManager()
-    for config in configurations:
-        manager.add_task(task.Task(config.get_cmd_line()))
-    manager.save_as_csv("configurations_running.csv")
+    distribution_configurations = []
+    minor_configurations = []
+    configurations = []
+    for repo in apache_repos:
+        try:
+            dist, minor = ConfigurationCreator.create_configurations(repo[1])
+            distribution_configurations.append(dist)
+            minor_configurations.append(minor)
+        except:
+            pass
+    for configurations, out_file in [(distribution_configurations, "configurations_running.csv"), (minor_configurations, "minor_configurations_running.csv")]:
+        manager = task.TaskManager()
+        for config in configurations:
+            manager.add_task(task.Task(config.get_cmd_line()))
+        manager.save_as_csv(out_file)

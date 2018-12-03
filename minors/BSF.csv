@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,bsf-2.4.0,1112,0
+Method,Most,bsf-3.0,1112,0
+Method,All,bsf-2.4.0,1112,0
+Method,All,bsf-3.0,1112,0
+File,Most,bsf-2.4.0,208,0
+File,Most,bsf-3.0,208,0
+File,All,bsf-2.4.0,208,0
+File,All,bsf-3.0,208,0

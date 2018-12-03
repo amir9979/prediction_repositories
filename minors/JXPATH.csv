@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,JXPATH_1_0,2828,0
+Method,Most,JXPATH_1_1,2828,0
+Method,Most,JXPATH_1_2,2862,1
+Method,All,JXPATH_1_0,2828,0
+Method,All,JXPATH_1_1,2828,0
+Method,All,JXPATH_1_2,2859,4
+File,Most,JXPATH_1_0,257,0
+File,Most,JXPATH_1_1,257,0
+File,Most,JXPATH_1_2,258,1
+File,All,JXPATH_1_0,257,0
+File,All,JXPATH_1_1,257,0
+File,All,JXPATH_1_2,257,2

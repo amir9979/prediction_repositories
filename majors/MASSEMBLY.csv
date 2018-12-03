@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-assembly-plugin-2.0,2513,37
+Method,All,maven-assembly-plugin-2.0,2374,176
+File,Most,maven-assembly-plugin-2.0,583,13
+File,All,maven-assembly-plugin-2.0,552,44

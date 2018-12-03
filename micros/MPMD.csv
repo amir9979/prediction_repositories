@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-pmd-plugin-2.7.1,228,1
+Method,Most,maven-pmd-plugin-3.0.1,356,1
+Method,Most,maven-pmd-plugin-3.9.0,370,0
+Method,Most,maven-pmd-plugin-3.10.0,376,1
+Method,All,maven-pmd-plugin-2.7.1,228,1
+Method,All,maven-pmd-plugin-3.0.1,357,0
+Method,All,maven-pmd-plugin-3.9.0,370,0
+Method,All,maven-pmd-plugin-3.10.0,376,1
+File,Most,maven-pmd-plugin-2.7.1,43,2
+File,Most,maven-pmd-plugin-3.0.1,97,0
+File,Most,maven-pmd-plugin-3.9.0,102,0
+File,Most,maven-pmd-plugin-3.10.0,107,1
+File,All,maven-pmd-plugin-2.7.1,43,2
+File,All,maven-pmd-plugin-3.0.1,97,0
+File,All,maven-pmd-plugin-3.9.0,102,0
+File,All,maven-pmd-plugin-3.10.0,106,2

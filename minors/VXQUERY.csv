@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,vxquery-0.1,5869,1
+Method,Most,apache-vxquery-0.4,5905,0
+Method,Most,apache-vxquery-0.5,6033,2
+Method,All,vxquery-0.1,5864,6
+Method,All,apache-vxquery-0.4,5905,0
+Method,All,apache-vxquery-0.5,6027,8
+File,Most,vxquery-0.1,1321,1
+File,Most,apache-vxquery-0.4,1333,0
+File,Most,apache-vxquery-0.5,1459,2
+File,All,vxquery-0.1,1319,3
+File,All,apache-vxquery-0.4,1333,0
+File,All,apache-vxquery-0.5,1456,5

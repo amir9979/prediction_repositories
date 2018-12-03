@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,DIGESTER_1_0,1121,0
+Method,Most,J2EE_14_03,1121,0
+Method,Most,jwsdp_10_ea2_01,1146,5
+Method,Most,DIGESTER_2_0,3576,3
+Method,All,DIGESTER_1_0,1121,0
+Method,All,J2EE_14_03,1121,0
+Method,All,jwsdp_10_ea2_01,1129,22
+Method,All,DIGESTER_2_0,3481,98
+File,Most,DIGESTER_1_0,171,0
+File,Most,J2EE_14_03,171,0
+File,Most,jwsdp_10_ea2_01,169,4
+File,Most,DIGESTER_2_0,953,2
+File,All,DIGESTER_1_0,171,0
+File,All,J2EE_14_03,171,0
+File,All,jwsdp_10_ea2_01,167,6
+File,All,DIGESTER_2_0,879,76

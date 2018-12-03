@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-pmd-plugin-2.0,225,3
+Method,Most,maven-pmd-plugin-3.0,228,1
+Method,All,maven-pmd-plugin-2.0,226,2
+Method,All,maven-pmd-plugin-3.0,228,1
+File,Most,maven-pmd-plugin-2.0,42,1
+File,Most,maven-pmd-plugin-3.0,43,2
+File,All,maven-pmd-plugin-2.0,41,2
+File,All,maven-pmd-plugin-3.0,43,2

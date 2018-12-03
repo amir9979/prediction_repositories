@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,doxia-1.0-alpha-10,4476,7
+Method,All,doxia-1.0-alpha-10,4459,24
+File,Most,doxia-1.0-alpha-10,413,5
+File,All,doxia-1.0-alpha-10,409,9

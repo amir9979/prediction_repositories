@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,release-0.7.0,1599,4
+Method,All,release-0.7.0,1567,36
+File,Most,release-0.7.0,305,2
+File,All,release-0.7.0,290,17

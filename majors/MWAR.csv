@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-war-plugin-2.0,206,1
+Method,Most,maven-war-plugin-2.0.1,220,0
+Method,Most,maven-war-plugin-2.0.2,647,17
+Method,All,maven-war-plugin-2.0,206,1
+Method,All,maven-war-plugin-2.0.1,220,0
+Method,All,maven-war-plugin-2.0.2,636,28
+File,Most,maven-war-plugin-2.0,28,1
+File,Most,maven-war-plugin-2.0.1,30,0
+File,Most,maven-war-plugin-2.0.2,131,6
+File,All,maven-war-plugin-2.0,28,1
+File,All,maven-war-plugin-2.0.1,30,0
+File,All,maven-war-plugin-2.0.2,122,15

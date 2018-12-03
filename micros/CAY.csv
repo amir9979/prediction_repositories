@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,3.0.1,27054,22
+Method,Most,3.0.2,39047,166
+Method,Most,cayenne-parent-3.1.1,46758,135
+Method,Most,3.1.2,48043,39
+Method,All,3.0.1,26963,113
+Method,All,3.0.2,36071,3142
+Method,All,cayenne-parent-3.1.1,45065,1828
+Method,All,3.1.2,47893,189
+File,Most,3.0.1,5443,20
+File,Most,3.0.2,7920,115
+File,Most,cayenne-parent-3.1.1,9132,103
+File,Most,3.1.2,9358,29
+File,All,3.0.1,5415,48
+File,All,3.0.2,7281,754
+File,All,cayenne-parent-3.1.1,8579,656
+File,All,3.1.2,9324,63

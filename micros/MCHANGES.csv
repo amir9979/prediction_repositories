@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-changes-plugin-2.7.1,640,3
+Method,Most,maven-changes-plugin-2.10,643,2
+Method,Most,maven-changes-plugin-2.11,664,0
+Method,Most,maven-changes-plugin-2.12,664,2
+Method,All,maven-changes-plugin-2.7.1,590,53
+Method,All,maven-changes-plugin-2.10,643,2
+Method,All,maven-changes-plugin-2.11,664,0
+Method,All,maven-changes-plugin-2.12,665,1
+File,Most,maven-changes-plugin-2.7.1,74,2
+File,Most,maven-changes-plugin-2.10,75,1
+File,Most,maven-changes-plugin-2.11,78,0
+File,Most,maven-changes-plugin-2.12,77,1
+File,All,maven-changes-plugin-2.7.1,69,7
+File,All,maven-changes-plugin-2.10,75,1
+File,All,maven-changes-plugin-2.11,78,0
+File,All,maven-changes-plugin-2.12,77,1

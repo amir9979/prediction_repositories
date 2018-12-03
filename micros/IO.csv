@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,IO_1_3_1,1272,0
+Method,Most,commons-io-1.3.2,2242,60
+Method,All,IO_1_3_1,1272,0
+Method,All,commons-io-1.3.2,2227,75
+File,Most,IO_1_3_1,119,0
+File,Most,commons-io-1.3.2,251,21
+File,All,IO_1_3_1,119,0
+File,All,commons-io-1.3.2,240,32

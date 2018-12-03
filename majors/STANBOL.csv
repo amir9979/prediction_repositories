@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,source-assembly-1.0.0,19103,104
+Method,Most,org.apache.stanbol.commons.security.reactor-20140602,19257,28
+Method,Most,stanbol-reactor-1.0.0,19285,0
+Method,Most,stanbol-stanbol-1.0.0,19285,0
+Method,All,source-assembly-1.0.0,18732,475
+Method,All,org.apache.stanbol.commons.security.reactor-20140602,19125,160
+Method,All,stanbol-reactor-1.0.0,19285,0
+Method,All,stanbol-stanbol-1.0.0,19285,0
+File,Most,source-assembly-1.0.0,3232,80
+File,Most,org.apache.stanbol.commons.security.reactor-20140602,3304,20
+File,Most,stanbol-reactor-1.0.0,3324,0
+File,Most,stanbol-stanbol-1.0.0,3324,0
+File,All,source-assembly-1.0.0,3124,188
+File,All,org.apache.stanbol.commons.security.reactor-20140602,3287,37
+File,All,stanbol-reactor-1.0.0,3324,0
+File,All,stanbol-stanbol-1.0.0,3324,0

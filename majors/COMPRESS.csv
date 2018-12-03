@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,compress_sandbox_03_2009,1176,28
+Method,Most,commons-compress-1.0,1204,0
+Method,All,compress_sandbox_03_2009,1133,71
+Method,All,commons-compress-1.0,1204,0
+File,Most,compress_sandbox_03_2009,129,10
+File,Most,commons-compress-1.0,139,0
+File,All,compress_sandbox_03_2009,121,18
+File,All,commons-compress-1.0,139,0

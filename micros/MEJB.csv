@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-ejb-plugin-2.2.1,159,0
+Method,Most,maven-ejb-plugin-2.5.1,231,0
+Method,Most,maven-ejb-plugin-3.0.0,231,0
+Method,All,maven-ejb-plugin-2.2.1,159,0
+Method,All,maven-ejb-plugin-2.5.1,231,0
+Method,All,maven-ejb-plugin-3.0.0,231,0
+File,Most,maven-ejb-plugin-2.2.1,11,1
+File,Most,maven-ejb-plugin-2.5.1,26,0
+File,Most,maven-ejb-plugin-3.0.0,26,0
+File,All,maven-ejb-plugin-2.2.1,11,1
+File,All,maven-ejb-plugin-2.5.1,26,0
+File,All,maven-ejb-plugin-3.0.0,26,0

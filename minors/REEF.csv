@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,rel/0.14.0,11700,0
+Method,Most,reef-project-0.14.0,11791,7
+Method,Most,reef-project-0.15.0,12182,35
+Method,All,rel/0.14.0,11700,0
+Method,All,reef-project-0.14.0,11657,141
+Method,All,reef-project-0.15.0,12055,162
+File,Most,rel/0.14.0,3876,0
+File,Most,reef-project-0.14.0,3899,7
+File,Most,reef-project-0.15.0,3966,28
+File,All,rel/0.14.0,3876,0
+File,All,reef-project-0.14.0,3820,86
+File,All,reef-project-0.15.0,3907,87

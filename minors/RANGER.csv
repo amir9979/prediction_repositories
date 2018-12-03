@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,ranger-0.7.0,14130,143
+Method,Most,release-ranger-1.0.0,14665,58
+Method,Most,release-ranger-1.1.0,15020,19
+Method,All,ranger-0.7.0,13642,631
+Method,All,release-ranger-1.0.0,14331,392
+Method,All,release-ranger-1.1.0,14944,95
+File,Most,ranger-0.7.0,1391,83
+File,Most,release-ranger-1.0.0,1467,35
+File,Most,release-ranger-1.1.0,1502,15
+File,All,ranger-0.7.0,1291,183
+File,All,release-ranger-1.0.0,1346,156
+File,All,release-ranger-1.1.0,1486,31

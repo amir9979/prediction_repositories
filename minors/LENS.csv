@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,grill-parent-1.0.0,2680,0
+Method,Most,grill-parent-1.1.0,9410,239
+Method,Most,apache-lens-2.6.0,10423,68
+Method,All,grill-parent-1.0.0,2680,0
+Method,All,grill-parent-1.1.0,8398,1251
+Method,All,apache-lens-2.6.0,10275,216
+File,Most,grill-parent-1.0.0,413,0
+File,Most,grill-parent-1.1.0,1313,109
+File,Most,apache-lens-2.6.0,1487,35
+File,All,grill-parent-1.0.0,413,0
+File,All,grill-parent-1.1.0,1206,216
+File,All,apache-lens-2.6.0,1443,79

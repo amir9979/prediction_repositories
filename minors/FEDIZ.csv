@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,fediz-1.0.0,1310,0
+Method,Most,fediz-1.1.0,2638,0
+Method,Most,fediz-1.2.0,3168,0
+Method,Most,fediz-1.3.0,3924,6
+Method,All,fediz-1.0.0,1310,0
+Method,All,fediz-1.1.0,2638,0
+Method,All,fediz-1.2.0,3168,0
+Method,All,fediz-1.3.0,3922,8
+File,Most,fediz-1.0.0,241,0
+File,Most,fediz-1.1.0,414,0
+File,Most,fediz-1.2.0,510,0
+File,Most,fediz-1.3.0,673,5
+File,All,fediz-1.0.0,241,0
+File,All,fediz-1.1.0,414,0
+File,All,fediz-1.2.0,510,0
+File,All,fediz-1.3.0,673,5

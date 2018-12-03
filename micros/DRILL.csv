@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,archive/DRILL-2167,19383,59
+Method,Most,0.9.0,21728,153
+Method,Most,drill-1.1.0,21894,4
+Method,Most,archive/DRILL-3450,23831,183
+Method,All,archive/DRILL-2167,18614,828
+Method,All,0.9.0,20490,1391
+Method,All,drill-1.1.0,21869,29
+Method,All,archive/DRILL-3450,22434,1580
+File,Most,archive/DRILL-2167,2869,45
+File,Most,0.9.0,2926,111
+File,Most,drill-1.1.0,3034,3
+File,Most,archive/DRILL-3450,3159,111
+File,All,archive/DRILL-2167,2526,388
+File,All,0.9.0,2614,423
+File,All,drill-1.1.0,3013,24
+File,All,archive/DRILL-3450,2857,413

@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-compiler-plugin-2.0,26,2
+Method,Most,maven-compiler-plugin-2.0.1,74,0
+Method,Most,maven-compiler-plugin-2.0.2,323,5
+Method,All,maven-compiler-plugin-2.0,26,2
+Method,All,maven-compiler-plugin-2.0.1,74,0
+Method,All,maven-compiler-plugin-2.0.2,309,19
+File,Most,maven-compiler-plugin-2.0,6,2
+File,Most,maven-compiler-plugin-2.0.1,35,0
+File,Most,maven-compiler-plugin-2.0.2,96,4
+File,All,maven-compiler-plugin-2.0,6,2
+File,All,maven-compiler-plugin-2.0.1,35,0
+File,All,maven-compiler-plugin-2.0.2,92,8

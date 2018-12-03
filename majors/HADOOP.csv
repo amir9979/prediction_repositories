@@ -1,0 +1,17 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,release-1.0.0,47490,8
+Method,Most,release-1.0.1,49028,11
+Method,Most,release-1.0.2,50193,28
+Method,Most,release-1.0.3,54023,51
+Method,All,release-1.0.0,47477,21
+Method,All,release-1.0.1,48992,47
+Method,All,release-1.0.2,50176,45
+Method,All,release-1.0.3,54030,44
+File,Most,release-1.0.0,6580,7
+File,Most,release-1.0.1,6751,7
+File,Most,release-1.0.2,6879,5
+File,Most,release-1.0.3,7643,12
+File,All,release-1.0.0,6576,11
+File,All,release-1.0.1,6742,16
+File,All,release-1.0.2,6870,14
+File,All,release-1.0.3,7629,26

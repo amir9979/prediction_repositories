@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,trunk_tmp_2012-03-01,19537,51
+Method,Most,MATH_3_1_1,25431,106
+Method,All,trunk_tmp_2012-03-01,19402,186
+Method,All,MATH_3_1_1,25083,454
+File,Most,trunk_tmp_2012-03-01,2245,32
+File,Most,MATH_3_1_1,4012,90
+File,All,trunk_tmp_2012-03-01,2214,63
+File,All,MATH_3_1_1,3948,154

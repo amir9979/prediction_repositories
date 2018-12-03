@@ -1,0 +1,13 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,1.0.0,4833,20
+Method,Most,2.0.0,13024,102
+Method,Most,geronimo-eclipse-plugin-3.0.0,13156,5
+Method,All,1.0.0,4480,373
+Method,All,2.0.0,12115,1011
+Method,All,geronimo-eclipse-plugin-3.0.0,13144,17
+File,Most,1.0.0,555,19
+File,Most,2.0.0,1608,58
+File,Most,geronimo-eclipse-plugin-3.0.0,1659,4
+File,All,1.0.0,494,80
+File,All,2.0.0,1504,162
+File,All,geronimo-eclipse-plugin-3.0.0,1656,7

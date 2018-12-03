@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,JXPATH_1_0,2828,0
+Method,Most,jwsdp_10_ea2_01,2828,0
+Method,All,JXPATH_1_0,2828,0
+Method,All,jwsdp_10_ea2_01,2828,0
+File,Most,JXPATH_1_0,257,0
+File,Most,jwsdp_10_ea2_01,257,0
+File,All,JXPATH_1_0,257,0
+File,All,jwsdp_10_ea2_01,257,0

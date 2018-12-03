@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-site-plugin-2.0,100,0
+Method,Most,maven-site-plugin-2.0.1,112,0
+Method,All,maven-site-plugin-2.0,100,0
+Method,All,maven-site-plugin-2.0.1,106,6
+File,Most,maven-site-plugin-2.0,6,0
+File,Most,maven-site-plugin-2.0.1,10,0
+File,All,maven-site-plugin-2.0,6,0
+File,All,maven-site-plugin-2.0.1,9,1

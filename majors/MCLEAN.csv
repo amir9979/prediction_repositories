@@ -1,0 +1,5 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,maven-clean-plugin-2.0,63,0
+Method,All,maven-clean-plugin-2.0,63,0
+File,Most,maven-clean-plugin-2.0,16,0
+File,All,maven-clean-plugin-2.0,16,0

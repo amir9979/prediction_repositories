@@ -1,0 +1,9 @@
+granularity,buggedType,version_name,valid,bug
+Method,Most,opennlp-1.6.0,5163,28
+Method,Most,opennlp-1.7.0,5725,47
+Method,All,opennlp-1.6.0,5062,129
+Method,All,opennlp-1.7.0,5351,421
+File,Most,opennlp-1.6.0,1250,25
+File,Most,opennlp-1.7.0,1293,29
+File,All,opennlp-1.6.0,1212,63
+File,All,opennlp-1.7.0,1136,186

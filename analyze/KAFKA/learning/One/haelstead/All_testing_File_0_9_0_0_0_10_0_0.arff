@@ -1,0 +1,43 @@
+% []
+@RELATION base
+
+@ATTRIBUTE Operators_count NUMERIC
+@ATTRIBUTE Operands_count NUMERIC
+@ATTRIBUTE Distinct_operators NUMERIC
+@ATTRIBUTE Distinct_operands NUMERIC
+@ATTRIBUTE Program_length NUMERIC
+@ATTRIBUTE Program_vocabulary NUMERIC
+@ATTRIBUTE Volume NUMERIC
+@ATTRIBUTE Difficulty NUMERIC
+@ATTRIBUTE Effort NUMERIC
+@ATTRIBUTE complexity NUMERIC
+@ATTRIBUTE hasBug {bugged, valid}
+
+@DATA
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+225,161,22,70,386,92,2518.09491504,25,62952.372876,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+334,208,30,76,542,106,3646.53288637,41,149507.848341,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+57,35,14,23,92,37,479.269709638,10,4792.69709638,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+0,0,0,0,0,0,0,0,0,0,valid
+53,32,19,21,85,40,452.363888065,13,5880.73054485,0,valid
+% 
+% 
+% 

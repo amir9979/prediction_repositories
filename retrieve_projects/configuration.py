@@ -60,7 +60,7 @@ def get_versions_by_type(tags):
                     micro = 0
                 if micro == 0:
                     minors.append(tag)
-                if minor == 0:
+                if minor == 0 and micro == 0:
                     majors.append(tag)
                 break
     return majors, minors, micros
